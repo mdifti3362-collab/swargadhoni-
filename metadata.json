@@ -1,0 +1,6 @@
+{
+  "name": "Swargadhoni",
+  "description": "An Islamic application featuring Hamd, Nat, Gazal, Mankabat, lyrics, and YouTube videos.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
